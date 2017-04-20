@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Mario_Android</string>
+    <string name="app_name">Interfaccia Utente</string>
+    <string name="book_button">Prenota</string>
+    <string name="mario_button">Prenota con Mario</string>
+    <string name="qr_button">Codice QR</string>
+    <string name="personal_button">Area personale</string>
 </resources>
